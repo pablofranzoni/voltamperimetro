@@ -1,6 +1,6 @@
-# Voltímetro Amperímetro
-Instrumento de medición para fuente
+# Voltímetro/Amperímetro
 
+Rango de lectura
 - 0-30 Voltios
 - 0-3 Amperios
 
